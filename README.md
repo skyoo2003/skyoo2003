@@ -1,6 +1,6 @@
 ### Hi, I'm Sung-Kyu Yoo 👋
 
-A software developer at [Kakao Enterprise Corp](https://github.com/kakaoenterprise). Working on search service automation platform.
+I am a software developer. Currently, Python, Golang are used as languages. I am also interested in automation and cloud technologies.
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=skyoo2003&count_private=true&show_icons=true&&include_all_commits=true" />
