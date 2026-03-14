@@ -1,9 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sung-Kyu Yoo</h1>
-<h3 align="center">I'm a software developer interested in automation and cloud technology.</h3>
+<h1 align="center">안녕하세요, 유성규입니다 👋</h1>
+<h3 align="center">Backend Engineer · Go & 분산 시스템</h3>
 
-- 📝 I regularly write articles on [https://skyoo2003.github.io/](https://skyoo2003.github.io/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,redis,docker,helm,python&perline=6" />
+  </a>
+</p>
 
-- 📫 How to reach me **skyoo2003@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+## 🚀 주요 프로젝트
+
+| Project | Description |
+|---------|-------------|
+| [**acor**](https://github.com/skyoo2003/acor) | Redis 기반 Aho-Corasick 자동화 ⭐ 4 |
+| [**kvs**](https://github.com/skyoo2003/kvs) | 분산 Key-Value Store |
+| [**kakaowork-py**](https://github.com/skyoo2003/kakaowork-py) | 카카오워크 Python 클라이언트 ⭐ 2 |
+
+---
+
+## 📊 GitHub 통계
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skyoo2003&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔗 연락처
+
+<p align="center">
+  <a href="https://skyoo2003.github.io">📝 Blog</a> ·
+  <a href="mailto:skyoo2003@gmail.com">📧 Email</a>
+</p>
